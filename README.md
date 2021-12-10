@@ -10,9 +10,11 @@ The purpose of this analysis is to provide W. Avy more information about tempera
 
 For more details on the statistics of each month, see below: 
 June:
+
 ![June.png](https://github.com/andreabassetti/surfs_up/blob/main/jpg/June.png)
 
 December:
+
 ![December.png](https://github.com/andreabassetti/surfs_up/blob/main/jpg/December.png)
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
